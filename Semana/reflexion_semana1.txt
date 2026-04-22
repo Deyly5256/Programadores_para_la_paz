@@ -1,0 +1,5 @@
+El uso responsable de la información en internet es fundamental para garantizar que lo que compartimos sea verdadero y útil para los demás.
+Esto se relaciona con la participación ciudadana, ya que una sociedad bien informada puede tomar mejores decisiones y contribuir de manera positiva. 
+Además, herramientas como Git permiten organizar el trabajo técnico de forma ordenada y colaborativa, asegurando que los cambios sean claros y verificables. 
+Así como en internet debemos validar la información antes de compartirla, en Git también es importante revisar y documentar los cambios realizados.
+Ambas prácticas fomentan la responsabilidad, la transparencia y el trabajo en equipo. En conjunto, ayudan a construir una ciudadanía digital más consciente y organizada.
