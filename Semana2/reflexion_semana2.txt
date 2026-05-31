@@ -1,0 +1,6 @@
+La terminal para un programador es su herramienta mas importante
+no importa como se presente sea visual, notepad o powersell, empezando 
+a saber organizar se da un paso muy grande pq desde ahi es donde se define 
+tu forma de trabajar sin lo haces ordenadamente o como salga, ordenar
+tus archivos hace que entiendas mejor ya que vas a seguir un paso a paso 
+casi siempre y se hace mas facil tu aprendizaje.

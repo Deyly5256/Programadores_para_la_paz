@@ -1,0 +1,10 @@
+En esta semana aprendimos El uso responsable de la información en internet 
+es importante porque nos permite evitar la difusión de noticias falsas y tomar 
+decisiones informadas.
+Esto se relaciona con la participación ciudadana, ya que una persona informada puede opinar,
+proponer y actuar de manera consciente en la sociedad digital.
+Además, el pensamiento algorítmico ayuda a organizar ideas de forma lógica para resolver problemas.
+Herramientas como Git permiten llevar un control ordenado de los cambios en el trabajo técnico.
+También facilitan la colaboración entre varias personas en un mismo proyecto. 
+Así se mejora la transparencia y la organización del desarrollo. 
+En conjunto, estos elementos fomentan una ciudadanía digital más responsable y eficiente.

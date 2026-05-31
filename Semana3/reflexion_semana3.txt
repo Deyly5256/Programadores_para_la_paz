@@ -1,0 +1,17 @@
+El uso de herramientas como Git es fundamental en el desarrollo de software  
+porque permite llevar un control detallado de todos los cambios realizados  
+en un proyecto. Gracias a esto, los desarrolladores pueden trabajar de  
+manera más organizada y segura, evitando la pérdida de información importante.  
+
+Git también facilita corregir errores, ya que permite volver a versiones  
+anteriores cuando algo falla. Además, mejora el trabajo en equipo porque  
+varias personas pueden colaborar en un mismo proyecto sin afectar el trabajo  
+de los demás.  
+
+Otra ventaja importante es la trazabilidad, porque se puede identificar qué  
+cambios se hicieron, cuándo se realizaron y quién los hizo. Esto ayuda a  
+mantener un mejor orden y una mayor responsabilidad dentro del proyecto.  
+
+Plataformas como GitHub complementan estas funciones al permitir almacenar  
+los proyectos en línea y compartirlos fácilmente. En conclusión, Git es una  
+herramienta esencial para mantener proyectos organizados, seguros y eficientes.
