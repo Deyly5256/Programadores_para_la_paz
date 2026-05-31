@@ -1,0 +1,5 @@
+Las tecnologías abiertas como Node.js son importantes porque permiten que las comunidades creen sus propias herramientas digitales según sus necesidades.
+Además, facilitan el aprendizaje de programación y promueven el trabajo colaborativo entre las personas.
+Estas herramientas ayudan a mejorar la comunicación, organizar actividades y compartir información de manera eficiente.
+También permiten desarrollar soluciones tecnológicas con bajos costos y mayor independencia.
+En conclusión, Node.js contribuye al desarrollo tecnológico y fortalece la participación de las comunidades en el entorno digital.
