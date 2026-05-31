@@ -1,0 +1,9 @@
+Las APIs son herramientas muy importantes para compartir información entre diferentes aplicaciones y sistemas.
+Gracias a ellas, las comunidades pueden enviar y recibir datos de manera rápida y organizada.
+Por ejemplo, una persona puede reportar un problema en su barrio utilizando una aplicación conectada a una API.
+La información enviada puede almacenarse y ser revisada por las personas responsables.
+También pueden utilizarse para enviar alertas, avisos o noticias importantes a los miembros de la comunidad.
+Las APIs facilitan la comunicación entre usuarios y plataformas digitales.
+Además, ayudan a mantener la información actualizada y disponible en tiempo real.
+Su uso mejora la organización y permite responder más rápidamente a las necesidades de la comunidad.
+Por estas razones, las APIs son una herramienta fundamental en el desarrollo de aplicaciones modernas.
