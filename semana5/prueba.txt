@@ -1,0 +1,17 @@
+Prueba 1
+Ruta: http://localhost:3000
+Al ingresar a esta ruta, el servidor responde con el mensaje "Servidor activo".
+Esta ruta confirma que el servidor está funcionando correctamente.
+
+
+Prueba 2
+Ruta: http://localhost:3000/saludo
+Al ingresar a esta ruta, el servidor responde con el mensaje "Hola comunidad".
+Esta ruta muestra un saludo definido por el servidor.
+
+
+Prueba 3
+Ruta: http://localhost:3000/mensaje/juan
+Al ingresar a esta ruta, el servidor responde con el mensaje "Hola juan".
+El nombre se obtiene del parámetro enviado en la URL.
+La ruta permite personalizar el saludo según el nombre recibido.
